@@ -1,4 +1,4 @@
-### Hi there 👋
+![welcome-image-gh.gif](images/welcome-image-gh.gif)
 
 <!--
 **Daniel-Krzyczkowski/Daniel-Krzyczkowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
