@@ -23,4 +23,16 @@
     <img src="https://github.com/Daniel-Krzyczkowski/Daniel-Krzyczkowski/blob/master/images/visualstudio_code.svg" alt="Visual Studio Code" style="vertical-align:top; margin:4px">
   </a>
   
+  <a href="https://dotnet.microsoft.com/learn/aspnet/what-is-aspnet-core">
+    <img src="https://github.com/Daniel-Krzyczkowski/Daniel-Krzyczkowski/blob/master/images/web.svg" alt="ASP .NET Core" style="vertical-align:top; margin:4px">
+  </a>
+  
+  <a href="https://azure.microsoft.com/en-us/overview/ai-platform/">
+    <img src="https://github.com/Daniel-Krzyczkowski/Daniel-Krzyczkowski/blob/master/images/ai.svg" alt="Azure AI" style="vertical-align:top; margin:4px">
+  </a>
+  
+  <a href="https://docs.microsoft.com/en-us/azure/active-directory/develop/">
+    <img src="https://github.com/Daniel-Krzyczkowski/Daniel-Krzyczkowski/blob/master/images/security.svg" alt="Microsoft Identity Platform" style="vertical-align:top; margin:4px">
+  </a>
+  
 </p>
