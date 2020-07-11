@@ -42,11 +42,11 @@
 ### 📢 Find me elsewhere:
 
 <p>
-   <a href="http://youtube.com/techmindfactory">
+   <a href="https://youtube.com/techmindfactory">
     <img src="https://github.com/Daniel-Krzyczkowski/Daniel-Krzyczkowski/blob/master/images/youtube.svg" alt="YouTube" style="vertical-align:top; margin:4px">
   </a>
 
-  <a href="linkedin.com/in/daniel-krzyczkowski">
+  <a href="https://linkedin.com/in/daniel-krzyczkowski">
     <img src="https://github.com/Daniel-Krzyczkowski/Daniel-Krzyczkowski/blob/master/images/linkedin.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
   </a>
   
