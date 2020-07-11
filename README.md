@@ -35,4 +35,8 @@
     <img src="https://github.com/Daniel-Krzyczkowski/Daniel-Krzyczkowski/blob/master/images/security.svg" alt="Microsoft Identity Platform" style="vertical-align:top; margin:4px">
   </a>
   
+  <a href="https://azure.microsoft.com/en-us/overview/iot/">
+    <img src="https://github.com/Daniel-Krzyczkowski/Daniel-Krzyczkowski/blob/master/images/iot.svg" alt="Azure IoT" style="vertical-align:top; margin:4px">
+  </a>
+  
 </p>
