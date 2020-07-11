@@ -1,4 +1,4 @@
-![welcome-image-gh.gif](images/welcome-image-gh.gif)
+![https://github.com/Daniel-Krzyczkowski/Daniel-Krzyczkowski/blob/master/images/welcome-image-gh.gif](https://github.com/Daniel-Krzyczkowski/Daniel-Krzyczkowski/blob/master/images/welcome-image-gh.gif)
 
 <!--
 **Daniel-Krzyczkowski/Daniel-Krzyczkowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
