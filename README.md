@@ -1,4 +1,4 @@
-![https://github.com/Daniel-Krzyczkowski/Daniel-Krzyczkowski/blob/master/images/welcome-image-gh.gif](https://github.com/Daniel-Krzyczkowski/Daniel-Krzyczkowski/blob/master/images/welcome-image-gh.gif)
+![https://github.com/Daniel-Krzyczkowski/Daniel-Krzyczkowski/blob/master/images/welcome-image-gh.gif](https://github.com/Daniel-Krzyczkowski/Daniel-Krzyczkowski/blob/master/images/github-banner-image.png)
 
 ---
 ### 🚧 I build with:
